@@ -25,13 +25,7 @@ for (let i = 0; i < imagesAsObjects.length; i++) {
     <img src=${imagesAsObjects[i].img} alt=${imagesAsObjects[i].title}>
   <div class="desc">${imagesAsObjects[i].title}</div>
   </div>`;
-//   <div id="myModal" class="modal nomostrar">
-//         <div class="modalcontent">
-//           <img src=${imagesAsObjects[i].img} alt=${imagesAsObjects[i].title}>
-//           <div class="desc">${imagesAsObjects[i].title}</div>
-//           <button id="cerrarModal">Cerrar Modal</button>
-//         </div>
-//     </div>;
+
   
 }
 
